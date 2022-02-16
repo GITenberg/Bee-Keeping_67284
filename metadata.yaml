@@ -1,11 +1,16 @@
 _repo: Bee-Keeping_67284
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67284-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Cumming, John
     gutenberg_agent_id: '54197'
     url: http://www.gutenberg.org/2009/agents/54197
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67284#Bee-Keeping
 gutenberg_issued: '2022-01-30'
 identifiers:
   gutenberg: '67284'
